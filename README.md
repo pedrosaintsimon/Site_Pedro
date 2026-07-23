@@ -26,11 +26,11 @@ A imagem será carregada automaticamente. Caso ela não exista, o site exibirá 
 
 Renomeie seu currículo para:
 
-`curriculo-pedro-ivo.pdf`
+`curriculo-seunome.pdf`
 
 Coloque em:
 
-`assets/documents/curriculo-pedro-ivo.pdf`
+`assets/documents/curriculo-seunome.pdf`
 
 ## Arquivos principais
 
